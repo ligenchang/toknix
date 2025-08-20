@@ -1,0 +1,11 @@
+pyproject.toml
+tests/test_bpe.py
+toknix/__init__.py
+toknix/bpe.py
+toknix/cli.py
+toknix.egg-info/PKG-INFO
+toknix.egg-info/SOURCES.txt
+toknix.egg-info/dependency_links.txt
+toknix.egg-info/entry_points.txt
+toknix.egg-info/requires.txt
+toknix.egg-info/top_level.txt

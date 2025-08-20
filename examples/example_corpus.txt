@@ -1,0 +1,6 @@
+hello world
+hello test
+world test
+this is a test file for the toknix example
+BPE tokenization is fun!
+open source tokenizer library
